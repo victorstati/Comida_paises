@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ComidaPaises</string>
+    <string name="brasil_imageview">bandiera del brasile</string>
+    <string name="paisNome">Brasile</string>
+    <string name="feijoada_textview">Feijoada</string>
+</resources>

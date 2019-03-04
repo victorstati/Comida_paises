@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paisNome_textsize">24sp</dimen>
+    <dimen name="brasil_height">250dp</dimen>
+    <dimen name="brasil_width">250dp</dimen>
+    <dimen name="feijoada_textsize">24sp</dimen>
+</resources>

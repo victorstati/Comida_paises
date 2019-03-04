@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ComidaPaises</string>
+    <string name="brasil_imageview">علم البرازيل</string>
+    <string name="paisNome">البرازيل</string>
+    <string name="feijoada_textview">فيجوادا</string>
+</resources>

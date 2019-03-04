@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ComidaPaises</string>
+    <string name="brasil_imageview">巴西国旗</string>
+    <string name="paisNome">巴西</string>
+    <string name="feijoada_textview">炖菜</string>
+</resources>
